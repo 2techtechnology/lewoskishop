@@ -303,10 +303,7 @@
                     </div>
                 </div>
                 <div class="hidden md:block relative">
-                    <!-- 
                     <img src="https://image.qwenlm.ai/public_source/68947641-15ff-4487-881f-321467b5fed8/15d2e0d59-3aa8-4c4f-a1a6-dcb537d72f8a.png" alt="Emprendedora trabajando" class="rounded-2xl shadow-2xl floating" style="max-width: 100%; height: auto; border: 4px solid rgba(230, 209, 185, 0.8);">
-                -->
-                    <img src="https://lewoskishop.com.ar/1.jpeg" alt="Emprendedora trabajando" class="rounded-2xl shadow-2xl floating" style="max-width: 100%; height: auto; border: 4px solid rgba(230, 209, 185, 0.8);">
                     <div class="absolute -bottom-6 -left-6 bg-accent p-4 rounded-xl shadow-lg animate-fade-in" style="animation-delay: 0.3s; border: 2px solid #ac7d59;">
                         <div class="flex items-center">
                             <div class="w-12 h-12 bg-secondary rounded-full flex items-center justify-center mr-3">
@@ -336,7 +333,7 @@
                 <!-- Candles Category -->
                 <div class="card-hover rounded-2xl overflow-hidden group">
                     <div class="relative h-64">
-                        <img src="https://lewoskishop.com.ar/velas.jpeg" alt="Velas para Creaciones" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500">
+                        <img src="https://image.qwenlm.ai/public_source/68947641-15ff-4487-881f-321467b5fed8/119ee77b8-c4a4-4a3e-9650-17a5ec130753.png" alt="Velas para Creaciones" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500">
                         <div class="absolute inset-0 bg-gradient-to-t from-primary/90 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                             <div class="absolute bottom-6 left-6 text-white">
                                 <h3 class="text-2xl font-bold mb-2" style="font-family: 'Waffle Soft', sans-serif;">Velas para Creaciones</h3>
@@ -356,7 +353,7 @@
                 <!-- Soaps Category -->
                 <div class="card-hover rounded-2xl overflow-hidden group">
                     <div class="relative h-64">
-                        <img src="https://lewoskishop.com.ar/jabones.jpeg" alt="Jabones para Creaciones" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500">
+                        <img src="https://image.qwenlm.ai/public_source/68947641-15ff-4487-881f-321467b5fed8/1cc63fc11-fd97-4373-bc1f-1a1ad86ec730.png" alt="Jabones para Creaciones" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500">
                         <div class="absolute inset-0 bg-gradient-to-t from-primary/90 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                             <div class="absolute bottom-6 left-6 text-white">
                                 <h3 class="text-2xl font-bold mb-2" style="font-family: 'Waffle Soft', sans-serif;">Jabones para Creaciones</h3>
@@ -376,7 +373,7 @@
                 <!-- Essences Category -->
                 <div class="card-hover rounded-2xl overflow-hidden group">
                     <div class="relative h-64">
-                        <img src="https://lewoskishop.com.ar/escencias.jpeg  " alt="Esencias para Creaciones" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500">
+                        <img src="https://image.qwenlm.ai/public_source/68947641-15ff-4487-881f-321467b5fed8/1b1061acd-e3e3-4c3a-a2bb-cd714b6ce325.png" alt="Esencias para Creaciones" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500">
                         <div class="absolute inset-0 bg-gradient-to-t from-primary/90 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                             <div class="absolute bottom-6 left-6 text-white">
                                 <h3 class="text-2xl font-bold mb-2" style="font-family: 'Waffle Soft', sans-serif;">Esencias para Creaciones</h3>
@@ -514,12 +511,7 @@
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="grid md:grid-cols-2 gap-12 items-center">
                 <div class="relative">
-                    <!--
                     <img src="https://image.qwenlm.ai/public_source/68947641-15ff-4487-881f-321467b5fed8/19f14f4e2-8b7a-4d0f-85b3-4b1f9a471072.png" alt="Nuestro Equipo" class="rounded-2xl shadow-2xl w-full h-auto card-hover" style="border: 4px solid white;">
-                -->
-                    <img src="https://lewoskishop.com.ar/2.jpeg" alt="Nuestro Equipo" class="rounded-2xl shadow-2xl w-full h-auto card-hover" style="border: 4px solid white;">
-                    
-                    
                     <div class="absolute -bottom-6 -right-6 bg-white p-6 rounded-xl shadow-lg" style="border: 2px solid #ac7d59;">
                         <div class="text-center">
                             <div class="text-4xl font-bold text-primary" style="font-family: 'Waffle Soft', sans-serif;">+5</div>
